@@ -1,3 +1,5 @@
+// Runtime 20ms
+
 int countGoodTriplets(vector<int>& arr, int a, int b, int c) {
         
     int n = arr.size();
